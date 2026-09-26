@@ -44,4 +44,12 @@ automated brute-force activity regardless of Hydra's own
 Kali Linux, Hydra, XAMPP, DVWA, Splunk, VirtualBox
 
 ## Screenshots
-e)
+
+### DVWA Login Page
+![DVWA Login](dvwa-login-page.png)
+
+### Hydra Attack Output
+![Hydra Output](hydra-attack-output.png)
+
+### Splunk Logs Analysis
+![Splunk Logs](splunk-logs.png)
